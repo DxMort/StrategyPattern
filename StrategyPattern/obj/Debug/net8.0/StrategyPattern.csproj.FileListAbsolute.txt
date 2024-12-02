@@ -1,0 +1,14 @@
+G:\3kyrs\1sem\c#lab\StrategyPattern\bin\Debug\net8.0\StrategyPattern.exe
+G:\3kyrs\1sem\c#lab\StrategyPattern\bin\Debug\net8.0\StrategyPattern.deps.json
+G:\3kyrs\1sem\c#lab\StrategyPattern\bin\Debug\net8.0\StrategyPattern.runtimeconfig.json
+G:\3kyrs\1sem\c#lab\StrategyPattern\bin\Debug\net8.0\StrategyPattern.dll
+G:\3kyrs\1sem\c#lab\StrategyPattern\bin\Debug\net8.0\StrategyPattern.pdb
+G:\3kyrs\1sem\c#lab\StrategyPattern\obj\Debug\net8.0\StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+G:\3kyrs\1sem\c#lab\StrategyPattern\obj\Debug\net8.0\StrategyPattern.AssemblyInfoInputs.cache
+G:\3kyrs\1sem\c#lab\StrategyPattern\obj\Debug\net8.0\StrategyPattern.AssemblyInfo.cs
+G:\3kyrs\1sem\c#lab\StrategyPattern\obj\Debug\net8.0\StrategyPattern.csproj.CoreCompileInputs.cache
+G:\3kyrs\1sem\c#lab\StrategyPattern\obj\Debug\net8.0\StrategyPattern.dll
+G:\3kyrs\1sem\c#lab\StrategyPattern\obj\Debug\net8.0\refint\StrategyPattern.dll
+G:\3kyrs\1sem\c#lab\StrategyPattern\obj\Debug\net8.0\StrategyPattern.pdb
+G:\3kyrs\1sem\c#lab\StrategyPattern\obj\Debug\net8.0\StrategyPattern.genruntimeconfig.cache
+G:\3kyrs\1sem\c#lab\StrategyPattern\obj\Debug\net8.0\ref\StrategyPattern.dll
